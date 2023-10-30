@@ -1,0 +1,19 @@
+.scroll{
+    width: 600px;
+}
+
+.scroll-content{
+    height: 570px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.chats {
+    width: 100%;
+    padding: 0 15px;
+    color: #fff;
+    position: relative;
+    font-size: 0.9em;
+    overflow: hidden;
+    color: black
+}

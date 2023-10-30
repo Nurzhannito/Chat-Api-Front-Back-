@@ -1,0 +1,14 @@
+.message{
+    color: #fff;
+    width: 60%;
+    word-wrap: break-word;
+    background-color: #4f5d73c7;
+    padding: 7px 10px;
+    border-radius: 10px 10px 10px 0;
+    margin: 10px 0;
+}
+
+.time{
+    display: flex;
+    justify-content: flex-end;
+}
